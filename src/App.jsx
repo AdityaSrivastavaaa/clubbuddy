@@ -2,11 +2,11 @@ import MainBanner from "./components/MainBanner";
 import Navbar from "./components/Navbar";
 import Step from "./components/Step";
 import Footer from "./components/Footer";
-import FAQ from "./components/Faq";
+// import FAQ from "./components/Faq";
 import Features from "./components/Features";
 import SpecialOffers from "./components/SpecialOffer";
 import Partners from "./components/Partners";
-import Testimonials from "./components/Testimonials";
+// import Testimonials from "./components/Testimonials";
 
 const App = () => {
   return (
