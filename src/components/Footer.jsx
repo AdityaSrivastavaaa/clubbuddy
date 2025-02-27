@@ -3,7 +3,7 @@
 function Footer() {
   return (
     <footer className="bg-gray-100 rounded-lg ">
-      <div className="w-full max-w-6xl px-3 py-12 mx-auto space-y-12">
+      <div className="w-full max-w-6xl px-5 py-12 mx-auto space-y-12">
         <div className="grid grid-cols-1 md:grid-cols-4 gap-12">
           
           {/* Company Logo & Contact Info */}
