@@ -3,7 +3,7 @@
 function Footer() {
   return (
     <footer className="bg-gray-100 rounded-lg ">
-      <div className="w-full max-w-screen-xl mx-auto px-6 py-10 md:py-14">
+      <div className="w-full">
         <div className="grid grid-cols-1 md:grid-cols-4 gap-12">
           
           {/* Company Logo & Contact Info */}
