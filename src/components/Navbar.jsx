@@ -1,4 +1,4 @@
-import brandlogo from "../assets/clubbuddy.png"; // Ensure correct path
+import brandlogo from "../../public/assets/clubbuddy.png"; // Ensure correct path
 
 function Navbar() {
   return (

@@ -1,9 +1,9 @@
 import { useState } from "react";
 import { ReactTyped } from "react-typed"; // ✅ Correct import
-import backgroundImage from "src/assets/ClubBackground.webp";
-import underline from "src/assets/underline.svg";
-import appstore from "src/assets/AppStore.svg";
-import playstore from "src/assets/PlayStore.svg";
+import backgroundImage from "../../public/assets/ClubBackground.webp";
+import underline from "../../public/assets/underline.svg";
+import appstore from "../../public/assets/AppStore.svg";
+import playstore from "../../public/assets/PlayStore.svg";
 
 function MainBanner() {
   const [showTyping] = useState(true);
